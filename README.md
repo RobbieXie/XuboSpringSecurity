@@ -1,3 +1,4 @@
+# 更改原版数据库 ，将数据库改成了mysql，通过mybatis连接。 实现 springsecurity + mybatis实现权限控制及登录
 # JWT Spring Security Demo
 
 ![Screenshot from running application](etc/screenshot-jwt-spring-security-demo.png?raw=true "Screenshot JWT Spring Security Demo")
